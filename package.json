@@ -1,0 +1,15 @@
+{
+  "name": "custom-series",
+  "version": "1.0.3",
+  "main": "series.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sterallion/custom-series.git"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^22.4.3"
+  }
+}
